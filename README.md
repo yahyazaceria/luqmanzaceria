@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://profile-counter.glitch.me/luqmanzaceria/count.svg" /> 
-</p>
+<img src="https://profile-counter.glitch.me/luqmanzaceria/count.svg" length="100" height="100" align="center"/> 
 
 <!--
 **luqmanzaceria/luqmanzaceria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
